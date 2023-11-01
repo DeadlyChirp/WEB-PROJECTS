@@ -3,6 +3,7 @@ web projects ressources
 
 Learning all : 
 https://www.youtube.com/watch?v=WR1ydijTx5E&ab_channel=TimKim
+
 Must learn & use : 
 https://www.freecodecamp.org/learn/
 
